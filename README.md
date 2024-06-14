@@ -60,7 +60,7 @@ the `films` tabeles inclueds
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
-![ER Diagram](my_diagram.png).
+![ER Diagram](my_diagram.png)
 
 * There is zero to many  many watch relationship between  users and films as one film can be added to watchlist by many users and the user can add many films to their watchlist
 * There is zero to many watched relationship between users and films as one film can be added to watchedlist by many users and the user can add many films to their watchedlist
